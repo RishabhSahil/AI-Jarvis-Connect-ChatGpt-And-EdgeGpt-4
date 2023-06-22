@@ -6,9 +6,8 @@
 
 **Replace your api key and add cookies** 
 
-- Folder:- ├───Data
--   File:- │   ├───Api.txt 👈 replace your openai api key
-
+- Path:- Data/Api.txt 👈 replace your openai api key
+- 
 - cookies.json 👈 add in EdgeGpt cookies 
 
 
